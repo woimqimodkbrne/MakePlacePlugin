@@ -1,0 +1,29 @@
+[
+  {
+    "Author": "jawslouis",
+    "Name": "MakePlace Plugin",
+    "InternalName": "MakePlacePlugin",
+    "AssemblyVersion": "3.0.0.0",
+    "TestingAssemblyVersion": "3.0.0.0",
+    "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
+    "Punchline": "Automatically save & load furniture layouts in your house.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
+    "Tags": [
+      "makeplace",
+      "housing",
+      "furniture",
+      "jawslouis"
+    ],
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/woimqimodkbrne/MakePlacePlugin/master/icon.png",
+    "DownloadLinkInstall": "https://github.com/woimqimodkbrne/MakePlacePlugin/releases/download/3.0.0.0/MakePlacePlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/woimqimodkbrne/MakePlacePlugin/releases/download/3.0.0.0/MakePlacePlugin.zip",
+    "DownloadLinkTesting": "https://github.com/woimqimodkbrne/MakePlacePlugin/releases/download/3.0.0.0/MakePlacePlugin.zip",
+    "AcceptsFeedback": true
+  }
+]
